@@ -1,0 +1,6 @@
+{
+  "name": "MNIST Digit Canvas Preprocessor",
+  "description": "Interactive MNIST-style digit drawing canvas with step-by-step image preprocessing (cropping, square padding, area-based downsampling, and center-of-mass recentering).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
